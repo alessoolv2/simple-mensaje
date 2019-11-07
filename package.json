@@ -1,0 +1,25 @@
+{
+  "name": "SimpleMensaje",
+  "version": "1.0.0",
+  "description": "Ejemplo de prueba alv.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui"
+  ],
+  "author": "Arturo Olvera",
+  "license": "ISC",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.57.0"
+  }
+}
