@@ -12,27 +12,12 @@ import {
 import { SimpleMensaje } from 'SimpleMensaje';
 export default class App extends Component {
 
-  onNextStep = () => {
-    console.log('called next step');
-  };
-
-  onPaymentStepComplete = () => {
-    alert('Payment step completed!');
-  };
-
-  onPrevStep = () => {
-    console.log('called previous step');
-  };
-
-  onSubmitSteps = () => {
-    console.log('called on submit step.');
-  };
-
+  
   render(){
-    console.log(ProgressSteps);
+    
     return (
         <View>
-          
+          <SimpleMensaje/>
         </View>
     );
 }
